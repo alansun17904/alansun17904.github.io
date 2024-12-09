@@ -5,6 +5,7 @@ main:
     conference: ATTRIB @ NeurIPS (2024)
     notes: To appear
     image: ./assets/img/panels-cover.png
+    code: https://github.com/alansun17904/mech-arith
 
   - title: Achieving Domain-Independent Certified Robustness via <i>Knowledge Continuity</i>
     authors: <strong>Alan Sun</strong>, Chiyu Ma, Kenneth Ge, Soroush Vosoughi
@@ -19,6 +20,7 @@ main:
     authors: Weicheng Ma, Luyang Zhao, Chun-Yi She, Yitao Jiang, <strong>Alan Sun</strong>, Bo Zhu, Devin Balkcom, Soroush Vosoughi
     pdf: https://arxiv.org/pdf/2411.00345
     image: ./assets/img/robot.png
+    bibtex: ./assets/files/robot.bib
 
   - title: "Deciphering Stereotypes in Pre-Trained Language Models"
     authors: Weicheng Ma, Henry Scheible, Brian Wang, Goutham Veeramachaneni, Pratim Chowdhary, <strong>Alan Sun</strong>, Andrew Koulogeorge, Lili Wang, Diyi Yang, Soroush Vosoughi
