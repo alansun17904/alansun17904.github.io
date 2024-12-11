@@ -1,15 +1,14 @@
 main:
   - title: "Algorithmic Phase Transitions in Large Language Models: A Mechanistic Case Study of Arithmetic"
     authors: <strong>Alan Sun</strong>, Ethan Sun, Warren Shepard
-    conference_short: ATTRIB
     conference: ATTRIB @ NeurIPS (2024)
-    notes: To appear
     image: ./assets/img/panels-cover.png
+    pdf: https://arxiv.org/pdf/2412.07386
     code: https://github.com/alansun17904/mech-arith
+    bibtex: ./assets/files/algphase.bib
 
   - title: Achieving Domain-Independent Certified Robustness via <i>Knowledge Continuity</i>
     authors: <strong>Alan Sun</strong>, Chiyu Ma, Kenneth Ge, Soroush Vosoughi
-    conference_short: NeurIPS
     conference: NeurIPS (2024)
     pdf: https://arxiv.org/pdf/2411.01644
     code: https://github.com/alansun17904/kc
@@ -24,7 +23,6 @@ main:
 
   - title: "Deciphering Stereotypes in Pre-Trained Language Models"
     authors: Weicheng Ma, Henry Scheible, Brian Wang, Goutham Veeramachaneni, Pratim Chowdhary, <strong>Alan Sun</strong>, Andrew Koulogeorge, Lili Wang, Diyi Yang, Soroush Vosoughi
-    conference_short: EMNLP
     conference: EMNLP (2023)
     pdf: https://aclanthology.org/2023.emnlp-main.697.pdf
     code: https://github.com/henryscheible/plmbias/tree/main
@@ -34,7 +32,6 @@ main:
 
   - title: "ThanosNet: A Novel Trash Classification Method Using Metadata"
     authors: <strong>Alan Sun</strong>, Harry Xiao 
-    conference_short: Big Data
     conference: IEEE Big Data (2020)
     pdf: https://ieeexplore.ieee.org/abstract/document/9378287
     code: https://github.com/alansun17904/smart-trash
@@ -44,7 +41,6 @@ main:
 
   - title: "A Decentralized Insurance Exchange"
     authors: <strong>Alan Sun</strong>
-    conference_short: Patent
     conference: US Patent No. 63/153,349, <emph>Pending</emph>
     pdf: ./assets/files/decentralized_insurance_exchange_provisional.pdf
     image: ./assets/img/decentralized.png
