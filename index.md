@@ -13,9 +13,13 @@ Robustness via Knowledge Continuity*, was awarded [First Prize for Oustanding Re
 My current research focuses on interpreting the mechanisms of artificial neural networks through circuit discovery. 
 
 ## Research
-I am interested in improving the robustness of deep learning models by proving tight certifications and discovering novel adversarial examples.
-I am also interested in uncovering the mechanisms that enable their decision making. Through explorations of both these subfields, I wish
-to expose the opaque links between them. 
+I am interested in improving the robustness and interpretability of deep learning models by uncovering
+the mechanisms underlying their decision-making processes and developing frameworks to enhance their stability.
+My research explores how models reason and adapt across tasks, introducing concepts like *knowledge continuity*
+and *circuit stability* to provide a unified understanding of robustness. By bridging gaps between theory
+and practice, I aim to expose the opaque links between adversarial vulnerabilities, interpretability challenges
+like superposition, and the structural properties of neural representations,
+enabling safer and more reliable AI systems.
 
 {% include_relative _includes/publications.md %}
 
