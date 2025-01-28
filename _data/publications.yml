@@ -15,11 +15,11 @@ main:
     image: ./assets/img/kc.png
     bibtex: ./assets/files/kc.bib
 
-  - title: On the Exploration of LM-Based Soft Modular Robot Design
-    authors: Weicheng Ma, Luyang Zhao, Chun-Yi She, Yitao Jiang, <strong>Alan Sun</strong>, Bo Zhu, Devin Balkcom, Soroush Vosoughi
-    pdf: https://arxiv.org/pdf/2411.00345
-    image: ./assets/img/robot.png
-    bibtex: ./assets/files/robot.bib
+  # - title: On the Exploration of LM-Based Soft Modular Robot Design
+  #   authors: Weicheng Ma, Luyang Zhao, Chun-Yi She, Yitao Jiang, <strong>Alan Sun</strong>, Bo Zhu, Devin Balkcom, Soroush Vosoughi
+  #   pdf: https://arxiv.org/pdf/2411.00345
+  #   image: ./assets/img/robot.png
+  #   bibtex: ./assets/files/robot.bib
 
   - title: "Deciphering Stereotypes in Pre-Trained Language Models"
     authors: Weicheng Ma, Henry Scheible, Brian Wang, Goutham Veeramachaneni, Pratim Chowdhary, <strong>Alan Sun</strong>, Andrew Koulogeorge, Lili Wang, Diyi Yang, Soroush Vosoughi
@@ -38,9 +38,9 @@ main:
     bibtex: ./assets/files/thanosnet.bib
     image: ./assets/img/thanos.png
 
-  - title: "A Decentralized Insurance Exchange"
-    authors: <strong>Alan Sun</strong>
-    conference: US Patent No. 63/153,349, <emph>Pending</emph>
-    pdf: ./assets/files/decentralized_insurance_exchange_provisional.pdf
-    image: ./assets/img/decentralized.png
+  # - title: "A Decentralized Insurance Exchange"
+  #   authors: <strong>Alan Sun</strong>
+  #   conference: US Patent No. 63/153,349, <emph>Pending</emph>
+  #   pdf: ./assets/files/decentralized_insurance_exchange_provisional.pdf
+  #   image: ./assets/img/decentralized.png
 
