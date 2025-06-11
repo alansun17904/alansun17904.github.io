@@ -11,13 +11,9 @@ a mathematical framework that enables the characterization of robustness of lang
 Robustness via Knowledge Continuity*, was awarded [First Prize for Oustanding Research in Computational Sciences](https://neukom.dartmouth.edu/research/neukom-research-prizes/2024-research-prize-winners) by the Neukom Institute as well as the [John G. Kemeny Computing Prize for Innovation](https://web.cs.dartmouth.edu/undergraduate/john-g-kemeny-computing-prize).
 
 ## Research
+
 I am interested in improving the robustness and interpretability of deep learning models by uncovering
 the mechanisms that underlie their decision-making processes.
-<!-- My research explores how models reason and adapt across tasks, introducing concepts like *knowledge continuity*
-and *circuit stability* to provide a unified understanding of robustness. By bridging gaps between theory
-and practice, I aim to expose the opaque links between adversarial vulnerabilities, interpretability challenges
-like superposition, and the structural properties of neural representations,
-enabling safer and more reliable AI systems. -->
 
 {% include_relative _includes/publications.md %}
 
