@@ -3,8 +3,9 @@ main:
     authors: <strong>Alan Sun</strong>
     conference: ACL (2025)
     code: https://github.com/alansun17904/circuit-stability
-    pdf: https://arxiv.org/abs/2505.24731
+    pdf: https://aclanthology.org/2025.acl-long.442/
     image: ./assets/img/circuit-stability.png
+    bibtex: ./assets/files/2025.acl-long.442.bib
 
   - title: "Algorithmic Phase Transitions in Large Language Models: A Mechanistic Case Study of Arithmetic"
     authors: <strong>Alan Sun</strong>, Ethan Sun, Warren Shepard
