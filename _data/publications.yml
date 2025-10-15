@@ -1,4 +1,7 @@
 main:
+  - title: "Provably Tracking Equivalent Mechanistic Interpretations Across Neural Networks"
+    authors: <strong>Alan Sun</strong>, Mariya Toneva
+    image: ./assets/img/formal.png
   - title: "Circuit Stability Characterizes Language Model Generalization"
     authors: <strong>Alan Sun</strong>
     conference: ACL (2025)
@@ -7,14 +10,6 @@ main:
     image: ./assets/img/circuit-stability.png
     bibtex: ./assets/files/2025.acl-long.442.bib
 
-  - title: "Algorithmic Phase Transitions in Large Language Models: A Mechanistic Case Study of Arithmetic"
-    authors: <strong>Alan Sun</strong>, Ethan Sun, Warren Shepard
-    conference: ATTRIB @ NeurIPS (2024)
-    image: ./assets/img/panels-cover.png
-    pdf: https://arxiv.org/pdf/2412.07386
-    code: https://github.com/alansun17904/mech-arith
-    bibtex: ./assets/files/algphase.bib
-
   - title: Achieving Domain-Independent Certified Robustness via <i>Knowledge Continuity</i>
     authors: <strong>Alan Sun</strong>, Chiyu Ma, Kenneth Ge, Soroush Vosoughi
     conference: NeurIPS (2024)
@@ -22,6 +17,14 @@ main:
     code: https://github.com/alansun17904/kc
     image: ./assets/img/kc.png
     bibtex: ./assets/files/kc.bib
+
+  - title: "Algorithmic Phase Transitions in Large Language Models: A Mechanistic Case Study of Arithmetic"
+    authors: <strong>Alan Sun</strong>, Ethan Sun, Warren Shepard
+    conference: ATTRIB @ NeurIPS (2024)
+    image: ./assets/img/panels-cover.png
+    pdf: https://arxiv.org/pdf/2412.07386
+    code: https://github.com/alansun17904/mech-arith
+    bibtex: ./assets/files/algphase.bib
 
   # - title: On the Exploration of LM-Based Soft Modular Robot Design
   #   authors: Weicheng Ma, Luyang Zhao, Chun-Yi She, Yitao Jiang, <strong>Alan Sun</strong>, Bo Zhu, Devin Balkcom, Soroush Vosoughi
